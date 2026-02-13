@@ -30,29 +30,28 @@ dotnet-playground/
 ---
 
 <!-- PROGRESS:START - Tự động cập nhật bởi GitHub Actions, KHÔNG sửa tay phần này -->
-
 ## 📊 Tracking Tiến Độ Học Tập
 
-> **Cập nhật lần cuối:** `chưa cập nhật`
+> **Cập nhật lần cuối:** `13/02/2026 15:00 (UTC+7)`
 
-| #   | Tuần       | Chủ đề                                         | Trạng thái      | Ghi chú |
-| --- | ---------- | ---------------------------------------------- | --------------- | ------- |
-| 0   | Tuần 0     | Setup & Tooling (.NET SDK, IDE, Git)           | ⬜ Chưa bắt đầu |         |
-| 1   | Tuần 1-2   | C# Fundamentals                                | ⬜ Chưa bắt đầu |         |
-| 2   | Tuần 3-4   | OOP & Advanced C#                              | ⬜ Chưa bắt đầu |         |
-| 3   | Tuần 5-6   | SQL Server & Database Basics                   | ⬜ Chưa bắt đầu |         |
-| 4   | Tuần 7-8   | ASP.NET Core Fundamentals (MVC/Razor)          | ⬜ Chưa bắt đầu |         |
-| 5   | Tuần 9-10  | REST API & Web API                             | ⬜ Chưa bắt đầu |         |
-| 6   | Tuần 11-12 | Entity Framework Core (ORM)                    | ⬜ Chưa bắt đầu |         |
-| 7   | Tuần 13-14 | Dependency Injection & Middleware              | ⬜ Chưa bắt đầu |         |
-| 8   | Tuần 15-16 | Authentication & Authorization (JWT, Identity) | ⬜ Chưa bắt đầu |         |
-| 9   | Tuần 17-18 | Testing (Unit Test, Integration Test)          | ⬜ Chưa bắt đầu |         |
-| 10  | Tuần 19-20 | Caching, Logging & Performance                 | ⬜ Chưa bắt đầu |         |
-| 11  | Tuần 21    | Docker & Containerization                      | ⬜ Chưa bắt đầu |         |
-| 12  | Tuần 22    | CI/CD Basics (GitHub Actions)                  | ⬜ Chưa bắt đầu |         |
-| 13  | Tuần 23    | Microservices & Message Queue Intro            | ⬜ Chưa bắt đầu |         |
-| 14  | Tuần 24    | Design Patterns & Clean Architecture           | ⬜ Chưa bắt đầu |         |
-| 15  | Tuần 25    | 🏆 Capstone Project (E-Commerce)               | ⬜ Chưa bắt đầu |         |
+| #  | Tuần       | Chủ đề                                             | Trạng thái          | Ghi chú |
+|----|------------|------------------------------------------------------|---------------------|---------|
+| 0  | Tuần 0     | Setup & Tooling (.NET SDK, IDE, Git)                 | 🔄 Đang học          |         |
+| 1  | Tuần 1-2   | C# Fundamentals                                      | ⬜ Chưa bắt đầu      |         |
+| 2  | Tuần 3-4   | OOP & Advanced C#                                    | ⬜ Chưa bắt đầu      |         |
+| 3  | Tuần 5-6   | SQL Server & Database Basics                         | ⬜ Chưa bắt đầu      |         |
+| 4  | Tuần 7-8   | ASP.NET Core Fundamentals (MVC/Razor)                | ⬜ Chưa bắt đầu      |         |
+| 5  | Tuần 9-10  | REST API & Web API                                   | ⬜ Chưa bắt đầu      |         |
+| 6  | Tuần 11-12 | Entity Framework Core (ORM)                          | ⬜ Chưa bắt đầu      |         |
+| 7  | Tuần 13-14 | Dependency Injection & Middleware                    | ⬜ Chưa bắt đầu      |         |
+| 8  | Tuần 15-16 | Authentication & Authorization (JWT, Identity)       | ⬜ Chưa bắt đầu      |         |
+| 9  | Tuần 17-18 | Testing (Unit Test, Integration Test)                | ⬜ Chưa bắt đầu      |         |
+| 10 | Tuần 19-20 | Caching, Logging & Performance                       | ⬜ Chưa bắt đầu      |         |
+| 11 | Tuần 21    | Docker & Containerization                            | ⬜ Chưa bắt đầu      |         |
+| 12 | Tuần 22    | CI/CD Basics (GitHub Actions)                        | ⬜ Chưa bắt đầu      |         |
+| 13 | Tuần 23    | Microservices & Message Queue Intro                  | ⬜ Chưa bắt đầu      |         |
+| 14 | Tuần 24    | Design Patterns & Clean Architecture                 | ⬜ Chưa bắt đầu      |         |
+| 15 | Tuần 25    | 🏆 Capstone Project (E-Commerce)                      | ⬜ Chưa bắt đầu      |         |
 
 ### 📈 Tổng quan
 
@@ -62,10 +61,9 @@ Tiến độ: [░░░░░░░░░░░░░░░░░░░░] 0/1
 
 ### Chú thích
 
-| Icon | Ý nghĩa      |
-| ---- | ------------ |
-| ⬜   | Chưa bắt đầu |
-| 🔄   | Đang học     |
-| ✅   | Hoàn thành   |
-
+| Icon | Ý nghĩa        |
+|------|-----------------|
+| ⬜   | Chưa bắt đầu   |
+| 🔄   | Đang học        |
+| ✅   | Hoàn thành      |
 <!-- PROGRESS:END -->
